@@ -1,17 +1,20 @@
-## Hello there! 👋 I'm Sumudu Kulathunga
-
+## Hello there! 👋 I'm Sumudu Kulathunga 👨‍💻
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sumudu-k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
+I'm a tech enthusiast with a keen interest in web development, mobile applications, and software engineering 🌐📱👨‍💻. I thrive on discovering new technologies, like a curious bird 🐦 exploring the endless expanse of the universe 🌌. From building responsive websites and crafting intuitive mobile apps to designing robust software solutions, I’m always eager to dive into the latest frameworks, languages, and tools. Technology is my passion, and every new discovery feels like reaching for the stars ✨. 
+</p>    
+<p align="center">
+Let’s connect and create something extraordinary together! 🚀
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/sumudu-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumudu-lakshan" height="30" width="40" /></a>
 <a href="https://fb.com/sumudu_lak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumudu_lak" height="30" width="40" /></a>
 <a href="https://instagram.com/sumudu_lak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumudu_lak" height="30" width="40" /></a>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=sumudu-k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumudu-k&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,5 +23,8 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu-k&" alt="sumudu-k" /></p>
+
+
+
 
 
