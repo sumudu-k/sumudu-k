@@ -1,6 +1,6 @@
 ## Hello there! 👋 I'm Sumudu Kulathunga 👨‍💻
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="800">
 <br><br>
 I'm a tech enthusiast with a keen interest in web development, mobile applications, and software engineering 🌐📱👨‍💻. I thrive on discovering new technologies, like a curious bird 🐦 exploring the endless expanse of the universe 🌌. From building responsive websites and crafting intuitive mobile apps to designing robust software solutions, I’m always eager to dive into the latest frameworks, languages, and tools. Technology is my passion, and every new discovery feels like reaching for the stars ✨. 
 </p>    
