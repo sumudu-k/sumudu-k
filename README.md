@@ -18,25 +18,76 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumudu-k&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>  
-</p>
+<!-- Frontend Technologies -->
+<table>
+  <tr><th align="left">🎨 Frontend Technologies</th></tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="css" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="bootstrap" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="tailwindcss" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react" width="50" height="50"/>&nbsp;
+    </td>
+  </tr>
+</table>
 
+<!-- Backend & Databases -->
+<table>
+  <tr><th align="left">🧠 Backend & Databases</th></tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="mysql" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongodb" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="express" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="nodejs" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="supabase" width="50" height="50"/>&nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="50" height="50"/>&nbsp;
+    </td>
+  </tr>
+</table>
+
+<!-- DevOps & Cloud -->
+<table>
+  <tr><th align="left">☁️ DevOps & Cloud</th></tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="docker" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="aws" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="nginx" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="linux" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="digitalocean" width="50" height="50"/>&nbsp;
+    </td>
+  </tr>
+</table>
+
+<!-- Tools & Utilities -->
+<table>
+  <tr><th align="left">🛠️ Tools & Utilities</th></tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="github" width="50" height="50"/>&nbsp;
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nNZVxrqmSMQnNMDKHdTkNFOxPkYUA0HZUA&s" alt="githubactions" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="postman" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="figma" width="50" height="50"/>&nbsp;
+    </td>
+  </tr>
+</table>
+
+<!-- Java & Swing (Optional Section) -->
+<table>
+  <tr><th align="left">📦 Other Technologies</th></tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" width="50" height="50"/>&nbsp;
+      <img src="https://miro.medium.com/v2/resize:fit:409/1*x53VGsJAqhN85ReUdQLPzA.jpeg" alt="swing" width="50" height="50"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="python" width="50" height="50"/>&nbsp;
+    </td>
+  </tr>
+</table>
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumudu-k&" alt="sumudu-k" /></p>
