@@ -10,10 +10,16 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://linkedin.com/in/sumudu-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumudu-lakshan" height="30" width="40" /></a>
-<a href="https://fb.com/sumudu_lak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumudu_lak" height="30" width="40" /></a>
-<a href="https://instagram.com/sumudu_lak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumudu_lak" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sumudu-k" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumudu-k" height="30" width="40" />
+  </a>
+  <a href="https://sumudu.site" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="40" />
+  </a>
 </p>
+
+
+
 <img src="https://komarev.com/ghpvc/?username=sumudu-k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumudu-k&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 
